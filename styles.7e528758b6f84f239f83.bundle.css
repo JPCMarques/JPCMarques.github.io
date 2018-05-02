@@ -1,4 +1,4 @@
-@media print{.no-print,.no-print *{display:none!important}}.fakeLink{color:#007bff;text-decoration:none;background-color:transparent}p{text-align:justify;text-justify:auto;margin-top:0;margin-bottom:1rem}/*!
+@media print{.no-print,.no-print *{display:none!important}.pbreak{page-break-before:always}}.fakeLink{color:#007bff;text-decoration:none;background-color:transparent}p{text-align:justify;text-justify:auto;margin-top:0;margin-bottom:1rem}/*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
  * Copyright 2011-2018 The Bootstrap Authors
  * Copyright 2011-2018 Twitter, Inc.
